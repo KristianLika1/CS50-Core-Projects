@@ -1,0 +1,23 @@
+sort1 uses: Bubble sort
+
+How do you know?: The best case scenario for bubble sort is an already sorted algorithm, since I already tested for the sort2,
+I compared sort1 and sort3 on 50k sorted and the time was much lower for the sort1.
+
+sort2 uses: Merge sort.
+
+How do you know?: Because it has the lowest sorting time of the three in the random order.
+That is congruent with the big O notation of n (log n) compared to n^2.
+
+sort3 uses: Linear
+
+How do you know?: TODO
+
+RANDOM 10K
+sort1 0,142s
+sort2 0,066s
+sort3 0,151s
+
+
+SORTED50K
+sort1 0,758
+sort3 2,666s
