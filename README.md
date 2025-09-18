@@ -15,3 +15,5 @@ This repository contains my completed core projects from Harvard's CS50 Introduc
 
 ## Note
 I did not complete the final web track modules, as my focus was on data handling and scientific computing.
+
+This repo is a clone of my original one since CS50 keeps them private.
